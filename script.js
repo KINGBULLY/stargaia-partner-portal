@@ -1,0 +1,1 @@
+document.getElementById('status').innerText = 'Dashboard Loaded – All Systems Nominal';
